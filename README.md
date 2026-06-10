@@ -1,4 +1,4 @@
-# Titaniv survival prediction (SAM-AI-Internship)
+# Titanic survival prediction (SAM-AI-Internship)
 Domain: 
 Data Science Internship Projects
 ## 📌 About This Project
