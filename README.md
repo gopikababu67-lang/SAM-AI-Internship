@@ -1,4 +1,4 @@
-# SAM-AI-Internship
+# Titaniv survival prediction (SAM-AI-Internship)
 Titaniv survival prediction 
 Data Science Internship Projects
 ## 📌 About This Project
