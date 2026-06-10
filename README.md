@@ -1,5 +1,5 @@
 # Titaniv survival prediction (SAM-AI-Internship)
-omain: 
+Domain: 
 Data Science Internship Projects
 ## 📌 About This Project
 This project predicts whether a passenger on the
